@@ -1,0 +1,15 @@
+F:\c_sharp\Balta_C_Sharp\bin\Debug\net6.0\NovoTeste.exe
+F:\c_sharp\Balta_C_Sharp\bin\Debug\net6.0\NovoTeste.deps.json
+F:\c_sharp\Balta_C_Sharp\bin\Debug\net6.0\NovoTeste.runtimeconfig.json
+F:\c_sharp\Balta_C_Sharp\bin\Debug\net6.0\NovoTeste.dll
+F:\c_sharp\Balta_C_Sharp\bin\Debug\net6.0\NovoTeste.pdb
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.csproj.AssemblyReference.cache
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.GeneratedMSBuildEditorConfig.editorconfig
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.AssemblyInfoInputs.cache
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.AssemblyInfo.cs
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.csproj.CoreCompileInputs.cache
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.dll
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\refint\NovoTeste.dll
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.pdb
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\NovoTeste.genruntimeconfig.cache
+F:\c_sharp\Balta_C_Sharp\obj\Debug\net6.0\ref\NovoTeste.dll
